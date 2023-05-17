@@ -1,4 +1,4 @@
-# NATT Springboard - Program Description
+# Google Cloud Springboard - Program Description
 
 # Purpose
 
