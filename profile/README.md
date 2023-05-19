@@ -55,6 +55,6 @@ Cloud architectures need to be reviewed and validated periodically to ensure the
 
 - [Deploying IL4 Assured Workload](https://github.com/GCP-Architecture-Guides/csa-il4-assured-workload): Creating an Assured Workloads folder for an IL4 compliance framework with VPC Service Control perimeter.
 
-- [Securing User Managed Vertex-AI Workbench]](https://github.com/GCP-Architecture-Guides/vertex-ai): Securing Vertex AI Workbench on Google Cloud.
+- [Securing User Managed Vertex-AI Workbench](https://github.com/GCP-Architecture-Guides/vertex-ai): Securing Vertex AI Workbench on Google Cloud.
 
 
