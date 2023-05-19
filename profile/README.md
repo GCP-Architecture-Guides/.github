@@ -30,31 +30,20 @@ Cloud architectures need to be reviewed and validated periodically to ensure the
   </thead>
   <tbody>
     <tr>
-      <td>[Network Firewall Microsegmentation](https://github.com/mgaur10/csa-fw-microsegmentation) </td>
+      <td>Network Firewall Microsegmentation - https://github.com/GCP-Architecture-Guides/csa-fw-microsegmentation </td>
       <td>Springboard Architecture Pattern for Network Microsegmentation </td>
     </tr>
     <tr>
-      <td>[Google Cloud Certificate Authority Service deployment](https://github.com/GCP-Architecture-Guides/csa-certificate-auth-service) </td>
-      <td>Springboard Architecture <u>Guide</u> for deploying Certificate Authority Service</td>
+      <td>Google Cloud Certificate Authority Service deployment - https://github.com/GCP-Architecture-Guides/csa-certificate-auth-service </td>
+      <td>Springboard Architecture Guide for deploying Certificate Authority Service</td>
     </tr>
     <tr>
-      <td>[Deploying IL4 Assured Workload](https://github.com/GCP-Architecture-Guides/csa-il4-assured-workload) </td>
+      <td>Deploying IL4 Assured Workload - https://github.com/GCP-Architecture-Guides/csa-il4-assured-workload </td>
       <td>Creating an Assured Workloads folder for an IL4 compliance framework with VPC Service Control perimeter</td>
     </tr>
     <tr>
-      <td>[Securing User Managed Vertex-AI Workbench]](https://github.com/GCP-Architecture-Guides/vertex-ai) </td>
+      <td>Securing User Managed Vertex-AI Workbench - https://github.com/GCP-Architecture-Guides/vertex-ai </td>
       <td>Securing Vertex AI Workbench on Google Cloud</td>
     </tr>
   </tbody>
 </table>
-
-# Secured Architectures:
-- [Network Firewall Microsegmentation](https://github.com/mgaur10/csa-fw-microsegmentation): Springboard Architecture Pattern for Network Microsegmentation.
-
-- [Google Cloud Certificate Authority Service deployment](https://github.com/GCP-Architecture-Guides/csa-certificate-auth-service): Springboard Architecture Guide for deploying Certificate Authority Service.
-
-- [Deploying IL4 Assured Workload](https://github.com/GCP-Architecture-Guides/csa-il4-assured-workload): Creating an Assured Workloads folder for an IL4 compliance framework with VPC Service Control perimeter.
-
-- [Securing User Managed Vertex-AI Workbench](https://github.com/GCP-Architecture-Guides/vertex-ai): Securing Vertex AI Workbench on Google Cloud.
-
-
