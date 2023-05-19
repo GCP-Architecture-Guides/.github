@@ -48,3 +48,5 @@ Cloud architectures need to be reviewed and validated periodically to ensure the
   </tbody>
 </table>
 
+[Network Firewall Microsegmentation](https://github.com/mgaur10/csa-fw-microsegmentation)
+
