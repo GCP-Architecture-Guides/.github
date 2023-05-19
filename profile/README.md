@@ -24,39 +24,6 @@ Cloud architectures need to be reviewed and validated periodically to ensure the
 <table>
   <thead>
     <tr>
-      <th>Architecture</th>
-      <th>Description</th>
-    </tr>
-  </thead>
-  <tbody>
-    <tr>
-      <td>Network Firewall Microsegmentation 
-        https://github.com/GCP-Architecture-Guides/csa-fw-microsegmentation </td>
-      <td>Springboard Architecture Pattern for Network Microsegmentation </td>
-    </tr>
-    <tr>
-      <td>Google Cloud Certificate Authority Service deployment 
-        https://github.com/GCP-Architecture-Guides/csa-certificate-auth-service </td>
-      <td>Springboard Architecture Guide for deploying Certificate Authority Service</td>
-    </tr>
-    <tr>
-      <td>Deploying IL4 Assured Workload 
-        https://github.com/GCP-Architecture-Guides/csa-il4-assured-workload </td>
-      <td>Creating an Assured Workloads folder for an IL4 compliance framework with VPC Service Control perimeter</td>
-    </tr>
-    <tr>
-      <td>Securing User Managed Vertex-AI Workbench
-        https://github.com/GCP-Architecture-Guides/vertex-ai </td>
-      <td>Securing Vertex AI Workbench on Google Cloud</td>
-    </tr>
-  </tbody>
-</table>
-
-
-
-<table>
-  <thead>
-    <tr>
       <th><strong>Architecture</strong></th>
       <th><strong>Description</strong></th>
     </tr>
