@@ -7,7 +7,7 @@ We also heard from customers that operationalization of new services and feature
 We hope you find these secured architectures useful and easy to integrate into your environment.
 
 
-## Architectural Patterns and Guides
+# Architectural Patterns and Guides
 
 The repo includes two types of architectures: patterns and guides.
 An architectural pattern is a reusable solution to a common architectural problem that has been proven to work well in multiple situations. It provides a set of options and design decisions for how to organize, integrate and configure services and features to achieve certain qualities, such as security, maintainability, and reliability. Patterns can include multiple design options.
@@ -21,8 +21,30 @@ Cloud architectures need to be reviewed and validated periodically to ensure the
 
 # Secured Architectures:
 
-
--  [Network Firewall Microsegmentation](https://github.com/mgaur10/csa-fw-microsegmentation)
--  [Certificate Authority Service](https://github.com/mgaur10/csa-certificate-auth-service)
--  [Deploying IL4  - Assured Workloads + VPC-SC](https://github.com/mgaur10/csa-il4-assured-workload)
+<table>
+  <thead>
+    <tr>
+      <th>Architecture</th>
+      <th>Description</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td>[Network Firewall Microsegmentation](https://github.com/mgaur10/csa-fw-microsegmentation) </td>
+      <td>Springboard Architecture Pattern for Network Microsegmentation </td>
+    </tr>
+    <tr>
+      <td>[Google Cloud Certificate Authority Service deployment](https://github.com/GCP-Architecture-Guides/csa-certificate-auth-service) </td>
+      <td>Springboard Architecture <u>Guide</u> for deploying Certificate Authority Service</td>
+    </tr>
+    <tr>
+      <td>[Deploying IL4 Assured Workload](https://github.com/GCP-Architecture-Guides/csa-il4-assured-workload) </td>
+      <td>Creating an Assured Workloads folder for an IL4 compliance framework with VPC Service Control perimeter</td>
+    </tr>
+    <tr>
+      <td>[Securing User Managed Vertex-AI Workbench]](https://github.com/GCP-Architecture-Guides/vertex-ai) </td>
+      <td>Securing Vertex AI Workbench on Google Cloud</td>
+    </tr>
+  </tbody>
+</table>
 
