@@ -34,7 +34,7 @@ Cloud architectures need to be reviewed and validated periodically to ensure the
       <td>Springboard Architecture Pattern for Network Microsegmentation </td>
     </tr>
     <tr>
-      <td><a href="https://github.com/GCP-Architecture-Guides/csa-certificate-auth-service">Google Cloud Certificate Authority Service deployment </a></td>
+      <td><a href="https://github.com/GCP-Architecture-Guides/csa-certificate-authority-service">Google Cloud Certificate Authority Service deployment </a></td>
       <td>Springboard Architecture <u>Guide</u> for deploying Certificate Authority Service</td>
     </tr>
     <tr>
