@@ -42,7 +42,7 @@ An architectural **guide** provides guidance on the architecture of a specific w
       <td>Creating an Assured Workloads folder for an IL4 compliance framework with VPC Service Control perimeter</td>
     </tr>
     <tr>
-      <td><a href="https://github.com/GCP-Architecture-Guides/vertex-ai">Securing User Managed Vertex-AI Workbench </a></td>
+      <td><a href="https://github.com/GCP-Architecture-Guides/csa-gen-ai-dlp-integration">Securing User Managed Vertex-AI Workbench </a></td>
       <td>Securing Vertex AI Workbench on Google Cloud</td>
     </tr>
   </tbody>
