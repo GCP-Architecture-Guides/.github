@@ -37,13 +37,17 @@ An architectural **guide** provides guidance on the architecture of a specific w
       <td><a href="https://github.com/GCP-Architecture-Guides/csa-certificate-authority-service">Google Cloud Certificate Authority Service deployment </a></td>
       <td>Springboard Architecture <u>Guide</u> for deploying Certificate Authority Service</td>
     </tr>
+        <tr>
+      <td><a href="https://github.com/GCP-Architecture-Guides/csa-gen-ai-dlp-integration">Securing User Managed Vertex-AI Workbench </a></td>
+      <td>Securing Vertex AI Workbench on Google Cloud</td>
+    </tr>
     <tr>
       <td><a href="https://github.com/GCP-Architecture-Guides/csa-il4-assured-workload">Deploying IL4 Assured Workload </a></td>
       <td>Creating an Assured Workloads folder for an IL4 compliance framework with VPC Service Control perimeter</td>
     </tr>
     <tr>
-      <td><a href="https://github.com/GCP-Architecture-Guides/csa-gen-ai-dlp-integration">Securing User Managed Vertex-AI Workbench </a></td>
-      <td>Securing Vertex AI Workbench on Google Cloud</td>
+      <td><a href="https://github.com/GCP-Architecture-Guides/assured-workloads-australia">Deploying Australia Regions with Assured Support Workload </a></td>
+      <td>Creating an Assured Workloads folder for Australia Regions with Assured Support with VPC Service Control perimeter</td>
     </tr>
   </tbody>
 </table>
