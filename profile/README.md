@@ -29,6 +29,11 @@ An architectural **guide** provides guidance on the architecture of a specific w
     </tr>
   </thead>
   <tbody>
+        <tr>
+      <td><a href="https://github.com/GCP-Architecture-Guides/GenAI-vertex-security"> GenAI Vertex Security </a></td>
+      <td>Springboard Architecture Pattern for Network Security for Vertex-AI covering Firewall+, Secure Web Proxy and VPC-SC </td>
+    </tr>
+    <tr>
     <tr>
       <td><a href="https://github.com/GCP-Architecture-Guides/csa-fw-microsegmentation">Network Firewall Microsegmentation </a></td>
       <td>Springboard Architecture Pattern for Network Microsegmentation </td>
@@ -49,11 +54,7 @@ An architectural **guide** provides guidance on the architecture of a specific w
       <td><a href="https://github.com/GCP-Architecture-Guides/assured-workloads-australia">Deploying Australia Regions with Assured Support Workload </a></td>
       <td>Creating an Assured Workloads folder for Australia Regions with Assured Support with VPC Service Control perimeter</td>
     </tr>
-    <tr>
-      <td><a href="https://github.com/GCP-Architecture-Guides/GenAI-vertex-security"> GenAI Vertex Security </a></td>
-      <td>Springboard Architecture Pattern for Network Security for Vertex-AI covering Firewall+, Secure Web Proxy and VPC-SC </td>
-    </tr>
-    <tr>
+
       <td><a href="https://github.com/GCP-Architecture-Guides/SCC-cryptomining-detection">SCC Cryptomining Program </a></td>
       <td>Springboard Architecture Pattern to validate SCC configurations for cryptomining detection </td>
     </tr>
