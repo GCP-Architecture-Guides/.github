@@ -55,7 +55,7 @@ An architectural **guide** provides guidance on the architecture of a specific w
       <td><a href="https://github.com/GCP-Architecture-Guides/assured-workloads-australia">Deploying Australia Regions with Assured Support Workload </a></td>
       <td>Creating an Assured Workloads folder for Australia Regions with Assured Support with VPC Service Control perimeter</td>
     </tr>
-
+   <tr>
       <td><a href="https://github.com/GCP-Architecture-Guides/SCC-cryptomining-detection">SCC Cryptomining Program </a></td>
       <td>Springboard Architecture Pattern to validate SCC configurations for cryptomining detection </td>
     </tr>
