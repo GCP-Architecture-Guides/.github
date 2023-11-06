@@ -30,7 +30,7 @@ An architectural **guide** provides guidance on the architecture of a specific w
   </thead>
   <tbody>
       <tr>
-      <td><a href="https://github.com/GCP-Architecture-Guides/GenAI-vertex-security"> GenAI Vertex Security </a>        </td>
+      <td><a href="https://github.com/GCP-Architecture-Guides/GenAI-Vertex-workbench-security"> GenAI-Vertex-workbench-security </a>        </td>
       <td>Springboard Architecture Pattern for Network Security for Vertex-AI covering Firewall+, Secure Web Proxy and VPC-SC </td>
     </tr>
     <tr>
