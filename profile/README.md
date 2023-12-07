@@ -34,6 +34,10 @@ An architectural **guide** provides guidance on the architecture of a specific w
       <td>Springboard Architecture Pattern for Network Security for Vertex-AI covering Firewall+, Secure Web Proxy and VPC-SC </td>
     </tr>
     <tr>
+      <td><a href="https://github.com/GCP-Architecture-Guides/CSA-DevSecOps"> CSA-DevSecOps </a>        </td>
+      <td>Secure DevOps Architecture Pattern for cloud-native development on Google Cloud using key tools like Skaffold, Jib, and Minikube within a Cloud Workstation, and services like Cloud Build, Cloud Deploy, and GKE, within a secure framework of private networking. </td>
+    </tr>
+    <tr>
       <td><a href="https://github.com/GCP-Architecture-Guides/csa-fw-microsegmentation">Network Firewall Microsegmentation </a></td>
       <td>Springboard Architecture Pattern for Network Microsegmentation </td>
     </tr>
